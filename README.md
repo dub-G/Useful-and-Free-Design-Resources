@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Colors](#Colors)
 - [Images](#Images)
 - [Icons](#Icons)
-- [Tools](#UTools)
+- [Tools](#Tools)
 - [Logos](#Logos)
 - [Coding](#Coding)
 - [Extras](#Extras)
