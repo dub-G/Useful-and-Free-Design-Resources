@@ -1,7 +1,7 @@
 # Useful Design Tools
 
 <p align="center">
-        <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Awesome-design-tools-cover.png" alt="Awesome-Design-Tools"/>
+        <img src="https://github.com/dub-G/test-readme/blob/master/media/illustration.png" alt="Useful-Design-Tools"/>
 </p>
 
 
