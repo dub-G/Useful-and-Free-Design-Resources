@@ -1,4 +1,4 @@
-# Useful Design Tools
+# Useful and Free Design Resources
 
 <p align="center">
         <img src="https://github.com/dub-G/test-readme/blob/master/media/illustration.png" height="200" alt="Useful-Design-Tools"/>
