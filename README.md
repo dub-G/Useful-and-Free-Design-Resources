@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - [Typography](#Typography)
 - [Colors](#Colors)
-- [Photos & Illustrations](#Photos-&-Illustrations)
+- [Images](#Images)
 - [Icons](#Icons)
 - [Tools](#UTools)
 - [Logos](#Logos)
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Color Hunt](https://colorhunt.co/) — Collection of thousands of hand-picked color palettes.
 - [CSS Gradient](https://cssgradient.io/) — A free CSS gradient generator tool.
 - [Picular](https://picular.co/) — A rocket fast primary color generator using Google's image search.
-### Photos & Illustrations
+### Images
 - [Pixabay](https://pixabay.com/) — Find your perfect free image or video to download and use for anything. 
 - [Unsplash](https://unsplash.com) — My favourite library of stock photos free to use.
 - [unDraw](https://undraw.co) — Open-source illustrations for any idea you can imagine and create.
