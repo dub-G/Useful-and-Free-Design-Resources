@@ -12,6 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Table of Contents
 
+- [Inspiration](#Inspiration)
 - [Typography](#Typography)
 - [Colors](#Colors)
 - [Images](#Images)
