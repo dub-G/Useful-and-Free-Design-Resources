@@ -17,15 +17,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Coding](#Coding)
 - [Extras](#Extras)
 
-  
+### Inspiration
+- [Behance](https://www.behance.net/) — An online platform to showcase & discover creative work.
+- [Dribbble](https://dribbble.com/) — An online community for showcasing user-made artwork.
 ### Typography
+- [Google Fonts](https://fonts.google.com/) — Making the web more beautiful, fast, and open through great typography.
 ### Colors
+- [Coolors](https://coolors.co/) — Beautiful color palettes for your projects.
+- [Color by Cloudflare](https://cloudflare.design/color/) — Best tool to preview palettes against UI elements.
+- [Color Hunt](https://colorhunt.co/) — Collection of thousands of hand-picked color palettes.
 ### Photos
+- [Unsplash](https://unsplash.com) — My favourite library of stock photos free to use.
 ### Icons
+- [Font Awesome](https://fontawesome.com/) — The web's most popular icon set and toolkit, also it's open source.
+- [Noun Project](https://thenounproject.com/) — Huge library of icons for everything.
+- [Nucleo](https://nucleoapp.com/) — Nucleo is a library and an application to collect, customize and export all your icons.
 ### Tools
 ### Logos
 ### Coding
+- [Animista](https://animista.net/) — An amazing collection of ready to use CSS animations.
 ### Extras
 
-- [After Effects](https://www.adobe.com/products/aftereffects.html) — digital visual effects, motion graphics, and compositing application developed by Adobe.
+
 
