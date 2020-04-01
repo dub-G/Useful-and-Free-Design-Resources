@@ -1,7 +1,7 @@
 # Useful Design Tools
 
 <p align="center">
-        <img src="https://github.com/dub-G/test-readme/blob/master/media/illustration.png height=100" alt="Useful-Design-Tools"/>
+        <img src="https://github.com/dub-G/test-readme/blob/master/media/illustration.png" "height=200" alt="Useful-Design-Tools"/>
 </p>
 
 
