@@ -86,3 +86,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
+- [After Effects](https://www.adobe.com/products/aftereffects.html) — digital visual effects, motion graphics, and compositing application developed by Adobe.
+
