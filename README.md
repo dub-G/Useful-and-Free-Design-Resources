@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Nucleo](https://nucleoapp.com/) — Nucleo is a library and an application to collect, customize and export all your icons.
 - [Iconset](https://iconset.io/) — Free, cross-platform and fast SVG icon organizer working on Mac and Windows.
 - [Simple Icons](https://simpleicons.org/) — Free SVG icons for popular brands.
-### Tool
+### Tools
 - [Canva](https://www.canva.com/) — Create stunning designs for work, life, and play—even if you're not a design expert.
 - [Figma](https://www.figma.com/) — A design tool based in the browser, that allows to design and prototype with real-time collaboration.
 - [GIMP](https://www.gimp.org/) — A free & open-source imaging and graphic design software.
