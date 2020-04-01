@@ -1,4 +1,4 @@
-- [Useful Design Tools](#-Useful-Design-Tools)
+- [Useful Design Tools](#Useful-Design-Tools)
 
 # Project Title
 
