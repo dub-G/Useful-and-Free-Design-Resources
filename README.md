@@ -1,5 +1,8 @@
-# Example text {style=text-align:center}
 # Useful Design Tools
+
+<h1 align="justify">
+  Lorem ipsum
+</h1>
 
 <p align="center">
         <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Awesome-design-tools-cover.png" alt="Awesome-Design-Tools"/>
